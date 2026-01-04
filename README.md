@@ -1,6 +1,6 @@
 # JAKL (Just Another Keyboard Layout)
 
-**JAKL** es una distribución de teclado ergonómica de formato 40%, diseñada mediante ingeniería específica para la **escritura de prosa en español** y la eficiencia en programación. Está diseñada para funcionar de forma nativa en teclados ortolineales (Planck, BM40) a través del firmware QMK.
+**JAKL** es una distribución de teclado ergonómica de formato 40%, diseñada mediante ingeniería específica para la **escritura de prosa en español** y la eficiencia en programación. Está diseñada para funcionar de forma nativa en teclados ortolineales (Planck, BM40) a través del firmware QMK o similares.
 
 ## Filosofía y Objetivos de Diseño
 
@@ -10,7 +10,7 @@ JAKL ha sido desarrollado utilizando optimización algorítmica entrenada con la
 * **Alternancia de Manos:** Aprovecha la estructura silábica "Consonante-Vocal" del español para maximizar la alternancia izquierda-derecha (equilibrio 50/50).
 * **Distancia de Recorrido:** Minimiza el recorrido de los dedos colocando los carácteres de mayor frecuencia en la fila central (*Home Row*).
 * **Fuerza de los Dedos:** Distribuye la carga de trabajo priorizando los dedos índice y corazón, reduciendo drásticamente la tensión en los meñiques.
-* 
+
 ## Análisis del Layout
 
 ### Capa 1: Base
