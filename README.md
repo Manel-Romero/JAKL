@@ -37,6 +37,6 @@ Diseñada para mantener las manos en la posición base durante la edición de te
 * **Alineación Multimedia:** Los controles de volumen y reproducción están alineados verticalmente con el clúster de navegación para una operación intuitiva sin necesidad de mirar.
 * **Sniper Mode:** Clic Izquierdo del ratón dedicado en la esquina inferior izquierda para un control de cursor de máxima precisión junto con las teclas de navegación.
 
-![Capa Funciones](./jakl-func.png)
+![Capa Funciones](./jakl-funct.png)
 
 /Trabajando para llevarlo a tierra/
