@@ -7,11 +7,10 @@
 JAKL ha sido desarrollado utilizando optimización algorítmica entrenada con la totalidad de "El ingenioso hidalgo Don Quijote de la Mancha". El diseño aborda las propiedades fonéticas y silábicas específicas del idioma español, diferenciándose de diseños anglocéntricos como QWERTY o Colemak.
 
 ### Métricas de Optimización
-* **Alternancia de Manos:** Prioriza la estructura silábica "Consonante-Vocal" del español para maximizar la alternancia izquierda-derecha (equilibrio 50/50).
-* **Distancia de Recorrido:** Minimiza el recorrido de los dedos colocando los n-gramas de mayor frecuencia en la fila central (*Home Row*).
+* **Alternancia de Manos:** Aprovecha la estructura silábica "Consonante-Vocal" del español para maximizar la alternancia izquierda-derecha (equilibrio 50/50).
+* **Distancia de Recorrido:** Minimiza el recorrido de los dedos colocando los carácteres de mayor frecuencia en la fila central (*Home Row*).
 * **Fuerza de los Dedos:** Distribuye la carga de trabajo priorizando los dedos índice y corazón, reduciendo drásticamente la tensión en los meñiques.
-* **Simetría:** Utiliza la cuadrícula ortolineal para crear capas lógicas y simétricas para símbolos y navegación.
-
+* 
 ## Análisis del Layout
 
 ### Capa 1: Base
