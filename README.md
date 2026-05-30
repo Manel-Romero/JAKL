@@ -4,7 +4,7 @@
 
 ## Filosofía y Objetivos de Diseño
 
-JAKL ha sido desarrollado utilizando optimización algorítmica entrenada con la totalidad de "El ingenioso hidalgo Don Quijote de la Mancha". El diseño aborda las propiedades fonéticas y silábicas específicas del idioma español, diferenciándose de diseños anglocéntricos como QWERTY o Colemak.
+JAKL ha sido desarrollado utilizando optimización algorítmica entrenada con la totalidad de "El ingenioso hidalgo Don Quijote de la Mancha" (además de páginas aleatorias de wikipedia y librerías de python, c++ y java). El diseño aborda las propiedades fonéticas y silábicas específicas del idioma español, diferenciándose de diseños anglocéntricos como QWERTY o Colemak.
 
 ### Métricas de Optimización
 * **Alternancia de Manos:** Aprovecha la estructura silábica "Consonante-Vocal" del español para maximizar la alternancia izquierda-derecha (equilibrio 50/50).
